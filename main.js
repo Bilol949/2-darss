@@ -35,5 +35,5 @@
 let string = prompt('string typedagi malumot kiriting')
 let number = +prompt('number typedagi malumot kiriting')
 let booolean = prompt('boolean typedagi malumot kiriting')
-confirm = ('hamma malumotlaringiz togri ekan ligiga ishonch hosil qildingizmi?')
+confirm ('hamma malumotlaringiz togri ekan ligiga ishonch hosil qildingizmi?')
 alert(`siz kiritgan ${string} string typega tegishli \n siz kiritgan ${number} number type ga tegishli \n siz kiritgan ${booolean} boolean typega tegishli`);
